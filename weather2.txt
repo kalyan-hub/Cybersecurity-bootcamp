@@ -1,1 +1,1 @@
-File for cybersecurity project
+File for cybersecurity project to extract the print data to text file
